@@ -1,0 +1,108 @@
+[
+    {
+        "p_title":"Anor",
+        "p_des":"Anor mevalarini ozuqa mevasi sifatida xom holda, tayyor ovqatga solishda,  sharbatini olib, ichimlik sifatida foydalanish mumkin. Shimoliy yarim sharda anor mavsumi odatda sentyabrdan fevralgacha, janubiy yarimsharda — martdan maygacha davom etadi.Anor Gʻarbiy Osiyodan keladi va qadim zamonlardan buyon tomonidan qo‘llanib keladi. Hozirgi vaqtda u Yaqin Sharq va Kavkazda, Shimoliy va tropik Afrikada, Osiyo va O‘rtayer dengizining bir qator mintaqalarida keng yetishtiriladi.",
+        "price":12000,
+        "dis":11000,
+        "image":["../components/images/fresh/anor.jpg", "../components/images/fresh/anor2.jfif", "../components/images/fresh/anor3.jfif"],
+        "type":["all", "fruits", "fresh"],
+        "rate":4.5,
+        "fresh":"new",
+        "farm":"Mevachilik firmasi",
+        "delivery":{
+            "area":"uzbekistan",
+            "time":24
+        }
+    },
+    {
+        "p_title":"Anor",
+        "p_des":"Anor mevalarini ozuqa mevasi sifatida xom holda, tayyor ovqatga solishda,  sharbatini olib, ichimlik sifatida foydalanish mumkin. Shimoliy yarim sharda anor mavsumi odatda sentyabrdan fevralgacha, janubiy yarimsharda — martdan maygacha davom etadi.Anor Gʻarbiy Osiyodan keladi va qadim zamonlardan buyon tomonidan qo‘llanib keladi. Hozirgi vaqtda u Yaqin Sharq va Kavkazda, Shimoliy va tropik Afrikada, Osiyo va O‘rtayer dengizining bir qator mintaqalarida keng yetishtiriladi.",
+        "price":12000,
+        "dis":11000,
+        "image":["../components/images/fresh/anor.jpg", "../components/images/fresh/anor2.jfif", "../components/images/fresh/anor3.jfif"],
+        "type":["all", "fruits", "fresh"],
+        "rate":4.5,
+        "fresh":"new",
+        "farm":"Mevachilik firmasi",
+        "delivery":{
+            "area":"uzbekistan",
+            "time":24
+        }
+    },
+    {
+        "p_title":"Anor",
+        "p_des":"Anor mevalarini ozuqa mevasi sifatida xom holda, tayyor ovqatga solishda,  sharbatini olib, ichimlik sifatida foydalanish mumkin. Shimoliy yarim sharda anor mavsumi odatda sentyabrdan fevralgacha, janubiy yarimsharda — martdan maygacha davom etadi.Anor Gʻarbiy Osiyodan keladi va qadim zamonlardan buyon tomonidan qo‘llanib keladi. Hozirgi vaqtda u Yaqin Sharq va Kavkazda, Shimoliy va tropik Afrikada, Osiyo va O‘rtayer dengizining bir qator mintaqalarida keng yetishtiriladi.",
+        "price":12000,
+        "dis":11000,
+        "image":["../components/images/fresh/anor.jpg", "../components/images/fresh/anor2.jfif", "../components/images/fresh/anor3.jfif"],
+        "type":["all", "fruits", "fresh"],
+        "rate":4.5,
+        "fresh":"new",
+        "farm":"Mevachilik firmasi",
+        "delivery":{
+            "area":"uzbekistan",
+            "time":24
+        }
+    },
+    {
+        "p_title":"Anor",
+        "p_des":"Anor mevalarini ozuqa mevasi sifatida xom holda, tayyor ovqatga solishda,  sharbatini olib, ichimlik sifatida foydalanish mumkin. Shimoliy yarim sharda anor mavsumi odatda sentyabrdan fevralgacha, janubiy yarimsharda — martdan maygacha davom etadi.Anor Gʻarbiy Osiyodan keladi va qadim zamonlardan buyon tomonidan qo‘llanib keladi. Hozirgi vaqtda u Yaqin Sharq va Kavkazda, Shimoliy va tropik Afrikada, Osiyo va O‘rtayer dengizining bir qator mintaqalarida keng yetishtiriladi.",
+        "price":12000,
+        "dis":11000,
+        "image":["../components/images/fresh/anor.jpg", "../components/images/fresh/anor2.jfif", "../components/images/fresh/anor3.jfif"],
+        "type":["all", "fruits", "fresh"],
+        "rate":4.5,
+        "fresh":"new",
+        "farm":"Mevachilik firmasi",
+        "delivery":{
+            "area":"uzbekistan",
+            "time":24
+        }
+    },
+    {
+        "p_title":"Anor",
+        "p_des":"Anor mevalarini ozuqa mevasi sifatida xom holda, tayyor ovqatga solishda,  sharbatini olib, ichimlik sifatida foydalanish mumkin. Shimoliy yarim sharda anor mavsumi odatda sentyabrdan fevralgacha, janubiy yarimsharda — martdan maygacha davom etadi.Anor Gʻarbiy Osiyodan keladi va qadim zamonlardan buyon tomonidan qo‘llanib keladi. Hozirgi vaqtda u Yaqin Sharq va Kavkazda, Shimoliy va tropik Afrikada, Osiyo va O‘rtayer dengizining bir qator mintaqalarida keng yetishtiriladi.",
+        "price":12000,
+        "dis":11000,
+        "image":["../components/images/fresh/anor.jpg", "../components/images/fresh/anor2.jfif", "../components/images/fresh/anor3.jfif"],
+        "type":["all", "fruits", "fresh"],
+        "rate":4.5,
+        "fresh":"new",
+        "farm":"Mevachilik firmasi",
+        "delivery":{
+            "area":"uzbekistan",
+            "time":24
+        }
+    },
+    {
+        "p_title":"Anor",
+        "p_des":"Anor mevalarini ozuqa mevasi sifatida xom holda, tayyor ovqatga solishda,  sharbatini olib, ichimlik sifatida foydalanish mumkin. Shimoliy yarim sharda anor mavsumi odatda sentyabrdan fevralgacha, janubiy yarimsharda — martdan maygacha davom etadi.Anor Gʻarbiy Osiyodan keladi va qadim zamonlardan buyon tomonidan qo‘llanib keladi. Hozirgi vaqtda u Yaqin Sharq va Kavkazda, Shimoliy va tropik Afrikada, Osiyo va O‘rtayer dengizining bir qator mintaqalarida keng yetishtiriladi.",
+        "price":12000,
+        "dis":11000,
+        "image":["../components/images/fresh/anor.jpg", "../components/images/fresh/anor2.jfif", "../components/images/fresh/anor3.jfif"],
+        "type":["all", "fruits", "fresh"],
+        "rate":4.5,
+        "fresh":"new",
+        "farm":"Mevachilik firmasi",
+        "delivery":{
+            "area":"uzbekistan",
+            "time":24
+        }
+    },
+    {
+        "p_title":"Anor",
+        "p_des":"Anor mevalarini ozuqa mevasi sifatida xom holda, tayyor ovqatga solishda,  sharbatini olib, ichimlik sifatida foydalanish mumkin. Shimoliy yarim sharda anor mavsumi odatda sentyabrdan fevralgacha, janubiy yarimsharda — martdan maygacha davom etadi.Anor Gʻarbiy Osiyodan keladi va qadim zamonlardan buyon tomonidan qo‘llanib keladi. Hozirgi vaqtda u Yaqin Sharq va Kavkazda, Shimoliy va tropik Afrikada, Osiyo va O‘rtayer dengizining bir qator mintaqalarida keng yetishtiriladi.",
+        "price":12000,
+        "dis":11000,
+        "image":["../components/images/fresh/anor.jpg", "../components/images/fresh/anor2.jfif", "../components/images/fresh/anor3.jfif"],
+        "type":["all", "fruits", "fresh"],
+        "rate":4.5,
+        "fresh":"new",
+        "farm":"Mevachilik firmasi",
+        "delivery":{
+            "area":"uzbekistan",
+            "time":24
+        }
+    }
+
+]
